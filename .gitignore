@@ -1,3 +1,11 @@
+# Adding config file
+config.py
+# Adding Randoms
+API_practice.ipynb
+FalseWeatherPy.ipynb
+random_numbers.ipynb
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
